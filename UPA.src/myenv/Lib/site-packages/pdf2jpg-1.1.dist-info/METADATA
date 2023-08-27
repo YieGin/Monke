@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pdf2jpg
+Version: 1.1
+Summary: Wrapper to convert PDF files into jpg
+Home-page: https://github.com/pankajr141/pdf2jpg
+Author: Pankaj Rawat
+Author-email: pankajr141@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: img2pdf
+
+# PDF2JPG
+
+This package is use to convert pdf files int jpg.
+More detailed documentation can be found https://github.com/pankajr141/pdf2jpgs
+
